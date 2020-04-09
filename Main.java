@@ -1,8 +1,6 @@
 package fr.lolpop78910.skycraftapi;
 
 import fr.lolpop78910.skycraftapi.events.EventManager;
-import javafx.application.Application;
-import javafx.stage.Stage;
 import org.bukkit.plugin.PluginManager;
 import org.bukkit.plugin.java.JavaPlugin;
 
